@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1715880090
+icon.webp::CompressedTexture2D::3626017087650301524::1715878540::1715879456::1::::<><>::
+paint_control.gd::GDScript::-1::1715878540::0::1::::<>Control<>::
+paint_root.tscn::PackedScene::2897093689615341755::1715879579::0::1::::<><>::res://paint_control.gd<>res://tools_panel.gd<>uid://cdqq0m3rrlbva::::res://paint_tools.png
+paint_tools.png::CompressedTexture2D::5017454733427421014::1715878540::1715879456::1::::<><>::
+README.md::TextFile::-1::1715878540::0::1::::<><>::
+tools_panel.gd::GDScript::-1::1715878540::0::1::::<>Panel<>::
